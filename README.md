@@ -17,3 +17,4 @@ Data was sourced from "Alex the Analyst" on YouTube.
 5. Formulas (SUMIFS, COUNT, CORREL, custom calculations)
 
 ## Dashboard Sample
+![](Bike-Sales-Dashboard.png)
